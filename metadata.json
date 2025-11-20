@@ -1,0 +1,5 @@
+{
+  "name": "Opentrons Protocol Metrics",
+  "description": "A simulator-style GUI that analyzes Opentrons Python protocols to estimate mechanical usage statistics using Gemini AI.",
+  "requestFramePermissions": []
+}
